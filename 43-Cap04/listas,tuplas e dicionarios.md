@@ -8,7 +8,7 @@ Em Python, listas, tuplas e dicionários são estruturas de dados fundamentais, 
 
 <b>Tuplas</b>
 <b>Imutáveis:</b> Uma vez criadas, não podem ser alteradas. Isso significa que não é possível adicionar, remover ou modificar elementos.
-<b>Ordenadas:</b> Assim como as listas, mantêm a ordem dos elementos.
+<b>Ordenadas:</b> Assim como as listas, mantêm a ordem dos elementos.<br/>
 <b>Sintaxe:</b> Criadas com parênteses (), por exemplo: minha_tupla = (1, 2, 3).
 
 <b>Dicionários</b>
