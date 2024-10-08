@@ -3,7 +3,7 @@ Em Python, listas, tuplas e dicionários são estruturas de dados fundamentais, 
 
 <b>Listas</b>
 <b>Mutáveis:</b> Você pode modificar uma lista após sua criação (adicionar, remover ou alterar elementos).
-<b>Ordenadas:</b> Mantêm a ordem dos elementos. O índice é baseado em zero.
+<b>Ordenadas:</b> Mantêm a ordem dos elementos. O índice é baseado em zero.<br/>
 <b>Sintaxe:</b> Criadas com colchetes [], por exemplo: minha_lista = [1, 2, 3].
 
 <b>Tuplas</b>
