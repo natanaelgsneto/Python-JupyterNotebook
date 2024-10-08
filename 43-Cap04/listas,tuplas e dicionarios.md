@@ -17,7 +17,7 @@ Em Python, listas, tuplas e dicionários são estruturas de dados fundamentais, 
 <b>Sintaxe:</b> Criados com chaves {} e compostos por pares chave-valor, por exemplo: meu_dicionario = {'chave1': 'valor1', 'chave2': 'valor2'}.
 
 <b>Resumo das Diferenças</b>
-<b>Mutabilidade:</b> Listas e dicionários são mutáveis; tuplas são imutáveis.
+<b>Mutabilidade:</b> Listas e dicionários são mutáveis; tuplas são imutáveis.<br/>
 <b>Estrutura:</b> Listas e tuplas são sequências; dicionários são mapeamentos (pares chave-valor).
 <b>Uso:</b> Use listas quando precisar de uma coleção ordenada de itens, tuplas quando precisar de uma coleção imutável, e dicionários quando precisar de uma associação entre chaves e valores.
 Essas características fazem com que cada estrutura de dados seja mais adequada para diferentes situações.
