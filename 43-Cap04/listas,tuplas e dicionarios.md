@@ -13,7 +13,7 @@ Em Python, listas, tuplas e dicionários são estruturas de dados fundamentais, 
 
 <b>Dicionários</b>
 <b>Mutáveis:</b> Podem ser alterados após a criação, permitindo adicionar, remover ou modificar pares chave-valor.
-<b>Não ordenados:</b> Até o Python 3.6, a ordem dos elementos não era garantida, mas a partir do Python 3.7, a ordem de inserção é preservada.
+<b>Não ordenados:</b> Até o Python 3.6, a ordem dos elementos não era garantida, mas a partir do Python 3.7, a ordem de inserção é preservada.<br/>
 <b>Sintaxe:</b> Criados com chaves {} e compostos por pares chave-valor, por exemplo: meu_dicionario = {'chave1': 'valor1', 'chave2': 'valor2'}.
 
 <b>Resumo das Diferenças</b>
