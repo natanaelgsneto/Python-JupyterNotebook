@@ -1,18 +1,21 @@
 
 Em Python, listas, tuplas e dicionários são estruturas de dados fundamentais, cada uma com características distintas:
 
-Listas
+<b>Listas</b>
 Mutáveis: Você pode modificar uma lista após sua criação (adicionar, remover ou alterar elementos).
 Ordenadas: Mantêm a ordem dos elementos. O índice é baseado em zero.
 Sintaxe: Criadas com colchetes [], por exemplo: minha_lista = [1, 2, 3].
+
 Tuplas
 Imutáveis: Uma vez criadas, não podem ser alteradas. Isso significa que não é possível adicionar, remover ou modificar elementos.
 Ordenadas: Assim como as listas, mantêm a ordem dos elementos.
 Sintaxe: Criadas com parênteses (), por exemplo: minha_tupla = (1, 2, 3).
+
 Dicionários
 Mutáveis: Podem ser alterados após a criação, permitindo adicionar, remover ou modificar pares chave-valor.
 Não ordenados: Até o Python 3.6, a ordem dos elementos não era garantida, mas a partir do Python 3.7, a ordem de inserção é preservada.
 Sintaxe: Criados com chaves {} e compostos por pares chave-valor, por exemplo: meu_dicionario = {'chave1': 'valor1', 'chave2': 'valor2'}.
+
 Resumo das Diferenças
 Mutabilidade: Listas e dicionários são mutáveis; tuplas são imutáveis.
 Estrutura: Listas e tuplas são sequências; dicionários são mapeamentos (pares chave-valor).
